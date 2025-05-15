@@ -1,0 +1,16 @@
+{
+	"schemaVersion": 1,
+	"id": "coolfuturecrack",
+	"version": "1.0",
+	"name": "Future Crack",
+	"authors": [
+		"nick"
+	],
+	"mixins": [
+		"mixins.json"
+	],
+	"depends": {
+		"minecraft": "~1.21.1",
+		"java": ">=21"
+	}
+}
